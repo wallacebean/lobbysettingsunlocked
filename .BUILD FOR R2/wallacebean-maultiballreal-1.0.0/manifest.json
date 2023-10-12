@@ -1,0 +1,9 @@
+{
+    "name": "lobbysettingsunlocked",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/wallacebean/lobbysettingsunlocked",
+    "description": "simple mod that unlocks a lot of lobby settings",
+    "dependencies": [
+    "BepInEx-BepInExPack_LLBlaze-5.4.1900"
+    ]
+}
